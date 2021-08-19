@@ -2,6 +2,7 @@
 Introduction to data mining, Fall 2021 by Kaihua Ding
 
 - [x] NYT
+- [x] Search Engine Scrapping 
 - [ ] Twitter
 - [ ] scraber vs beautiful soup
 - [ ] Grah data structure
