@@ -3,6 +3,7 @@ Introduction to data mining, Fall 2021 by Kaihua Ding
 
 - [x] NYT
 - [x] Search Engine Scrapping 
+- [X] YouTube Mining / Scraping  
 - [ ] Twitter
 - [ ] scraber vs beautiful soup
 - [ ] Graph data structure
